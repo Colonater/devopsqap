@@ -1,0 +1,14 @@
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore compiled class files
+target/
+
+# Ignore Mac specific files
+.DS_Store
+
+# Ignore project-specific files
+devopsqap.iml
+
+# Ignore word processor files
+*.docx
